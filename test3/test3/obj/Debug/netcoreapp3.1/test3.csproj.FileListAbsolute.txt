@@ -1,0 +1,11 @@
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.exe
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.deps.json
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.json
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.runtimeconfig.dev.json
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.dll
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\bin\Debug\netcoreapp3.1\test3.pdb
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\obj\Debug\netcoreapp3.1\test3.csprojAssemblyReference.cache
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfoInputs.cache
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\obj\Debug\netcoreapp3.1\test3.AssemblyInfo.cs
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\obj\Debug\netcoreapp3.1\test3.dll
+C:\Users\fran\Desktop\New folder (3)\new]\test3\test3\obj\Debug\netcoreapp3.1\test3.pdb
