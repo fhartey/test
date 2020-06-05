@@ -16,6 +16,12 @@ namespace test3
 
                 if (count == 100) {
                     Console.WriteLine("yo");
+                    Console.WriteLine("what");
+                    Console.WriteLine("what");
+                    Console.WriteLine("what");
+                    Console.WriteLine("what");
+                    Console.WriteLine("what");
+                    Console.WriteLine("what");
                     break; }
                 count++;
             }
