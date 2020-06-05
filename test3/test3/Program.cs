@@ -7,11 +7,25 @@ namespace test3
         static void Main(string[] args)
         {
             // hey hows it going
+            // not bad man
+            int count = 0;
             Console.WriteLine("Hello World!");
+
             // but maybe 
             // i 
             // dont want to 
             // add any code
+
+            while (true){
+                
+
+
+                if (count == 100) {
+                    Console.WriteLine("yo");
+                    break; }
+                count++;
+            }
+
         }
     }
 }
