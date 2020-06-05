@@ -21,7 +21,11 @@ namespace test3
 
 
                 if (count == 100) {
-                    Console.WriteLine("yo");
+                    Console.WriteLine("no");
+                    Console.WriteLine("no");
+                    Console.WriteLine("no");
+                    Console.WriteLine("no");
+                    Console.WriteLine("no");
                     break; }
                 count++;
             }
